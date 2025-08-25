@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Tech Stack
-- **Backend:** Node.js (Express), Java (Spring Boot)  
+- **Backend:** Node.js (Hapi), Java (Spring Boot)  
 - **Database:** MySQL, PostgreSQL  
 - **Tools:** Git, Docker, Postman  
 - **Other:** REST API design, Authentication, Deployment basics  
@@ -20,15 +20,19 @@
 ---
 
 ## 📌 Featured Projects
-- [**E-commerce API**](#) → RESTful API with authentication & product management  
-- [**Task Manager**](#) → CRUD app with JWT authentication  
-- [**Blog Platform**](#) → Scalable blog backend with role-based access  
+- [**RestAPI-springboot-java**](https://github.com/username/RestAPI-springboot-java)  
+  Belajar membangun REST API menggunakan Spring Boot (Java).  
 
+- [**go-marketplace**](https://github.com/username/go-marketplace)  
+  Marketplace sederhana dengan Go untuk belajar backend dan concurrency.  
+
+- [**web-catering**](https://github.com/username/web-catering)  
+  Aplikasi web catering sederhana berbasis PHP.  
 ---
 
 ## 📫 Connect with Me
 - 🌍 Location: Indonesia  
-- 💼 LinkedIn: https://www.linkedin.com/in/rizal-adi/(#) 
+- 💼 LinkedIn: https://www.linkedin.com/in/rizal-adi/
 - 📧 Email: adirizal775@gmail.com
 
 ---
