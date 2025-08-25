@@ -28,7 +28,7 @@
 
 ## 📫 Connect with Me
 - 🌍 Location: Indonesia  
-- 💼 LinkedIn: [https://www.linkedin.com/in/rizal-adi/](#)  
+- 💼 LinkedIn: https://www.linkedin.com/in/rizal-adi/(#) 
 - 📧 Email: adirizal775@gmail.com
 
 ---
