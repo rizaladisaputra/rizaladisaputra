@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Rizal 👋
 
-<!--
-**rizaladisaputra/rizaladisaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Passionate about building reliable backend systems | Continuous learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Backend Developer with a strong interest in system design & clean architecture
+- Enjoys solving real-world problems through technology
+- Always learning and improving to build better, scalable solutions
+
+---
+
+## 🚀 Tech Stack
+- **Backend:** Node.js (Express), Java (Spring Boot)  
+- **Database:** MySQL, PostgreSQL  
+- **Tools:** Git, Docker, Postman  
+- **Other:** REST API design, Authentication, Deployment basics  
+
+---
+
+## 📌 Featured Projects
+- [**E-commerce API**](#) → RESTful API with authentication & product management  
+- [**Task Manager**](#) → CRUD app with JWT authentication  
+- [**Blog Platform**](#) → Scalable blog backend with role-based access  
+
+---
+
+## 📫 Connect with Me
+- 🌍 Location: Indonesia  
+- 💼 LinkedIn: [https://www.linkedin.com/in/rizal-adi/](#)  
+- 📧 Email: adirizal775@gmail.com
+
+---
+
+⭐️ From [M Rizal Adi Saputra](#)
